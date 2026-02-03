@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <Title>Scrapyard</Title>
+        <h3>Scrapyard is a application, so download it below <br>:3</h3>
+        
+<button onclick="downloadFile()" class="btn">Download File</button>
+
+<script>
+  function downloadFile() {
+    const link = document.createElement('a');
+    link.href = 'path/to/file.pdf';
+    link.download = 'filename.pdf';
+    link.click();
+  }
+</script>
+
+    </body>
+</html>
