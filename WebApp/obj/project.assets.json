@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ScrapYard\\Scrapyard\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Documents\\ScrapYard\\Scrapyard\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\ScrapYard\\Scrapyard\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\admin\\OneDrive\\Documents\\ScrapYard\\Scrapyard\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ScrapYard\\Scrapyard\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\admin\\OneDrive\\Documents\\ScrapYard\\Scrapyard\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
